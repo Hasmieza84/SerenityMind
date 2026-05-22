@@ -1,3 +1,3 @@
-function orderNow(){
-alert("Thank you for choosing PNNB Fries! Your dragon fries will be ready soon 🔥🐉");
+function startSession() {
+alert("Welcome to SerenityMind 🌿\nYour relaxation session is ready.");
 }
