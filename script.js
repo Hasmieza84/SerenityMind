@@ -1,3 +1,3 @@
 function startSession() {
-alert("Welcome to SerenityMind 🌿\nYour relaxation session is ready.");
+    alert("Selamat datang ke SerenityMind 🌿\nSemoga sesi relaksasi anda memberi ketenangan dan kesejahteraan.");
 }
