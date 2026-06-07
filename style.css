@@ -199,3 +199,21 @@ footer{
         padding:20px;
     }
 }
+.manual-box ul{
+    margin-left:25px;
+    line-height:1.8;
+    margin-bottom:20px;
+}
+
+.peringatan{
+    margin-top:25px;
+    padding:20px;
+    background:#fff8e1;
+    border-left:6px solid #f9a825;
+    border-radius:10px;
+}
+
+.peringatan h3{
+    color:#e65100;
+    margin-bottom:10px;
+}
